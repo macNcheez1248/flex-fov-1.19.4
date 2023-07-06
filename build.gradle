@@ -29,7 +29,7 @@ jar {
 }
 
 minecraft {
-    version = "1.11-13.19.0.2157"
+    version = "1.11-19.4"
     runDir = "run"
     
     // the mappings can be changed at any time, and must be in the following format.
